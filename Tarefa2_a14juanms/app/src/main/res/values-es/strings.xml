@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">U2_A_a14juanms</string>
+    <string name="action_settings"> Ajustes </string>
+    <string name="text_clear"> Borrar</string>
+    <string name="text_button"> Añadir / Borrar</string>
+    <string name="text_label"> Aquí verás el texto que escribas</string>
+    <string name="text_hint"> Escribe algún texto y presiona el botón</string>
+    <string name="text_red"> Rojo</string>
+    <string name="text_blue"> Azul</string>
+    <string name="text_start"> Empezar</string>
+    <string name="text_stop"> Parar</string>
+    <string name="text_image">Horreo en Araño - Rianxo</string>
+    <string name="text_toast_gal"> Has seleccionado una provincia gallega</string>
+    <string name="text_toast_no_gal">No has seleccionado una provincia gallega</string>
+
+    <string name="A_coruña">A Coruña</string>
+    <string name="Lugo">Lugo</string>
+    <string name="Pontevedra">Pontevedra</string>
+    <string name="Ourense">Ourense</string>
+    <string name="Leon">León</string>
+</resources>
